@@ -1,0 +1,1 @@
+[{"shopId":1,"name":"Sector 25, Gurgaon","rent":28500},{"shopId":2,"name":"Sector 53, Gurgaon","rent":37400},{"shopId":3,"name":"Greater Kailash, Delhi","rent":63100},{"shopId":4,"name":"Mall of India, Noida","rent":54200},{"name":"kadir shop","rent":3999,"shopId":5},{"name":"arman'shop","rent":"5600","shopId":6},{"name":"kadir shop2","rent":"4000","shopId":7}]
